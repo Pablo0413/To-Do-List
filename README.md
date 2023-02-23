@@ -1,6 +1,6 @@
-# todo
+# Vue To Do list
 
-## Project setup
+## About
 ```
 npm install
 ```
